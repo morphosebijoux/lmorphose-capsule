@@ -102,3 +102,4 @@ export default function Capsule() {
     </div>
   );
 }
+// Forcer rebuild sur Vercel
